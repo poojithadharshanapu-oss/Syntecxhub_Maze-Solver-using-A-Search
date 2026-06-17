@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the implementation of the A* (A-Star) Search Algorithm to solve a maze efficiently. The algorithm uses a heuristic function (Manhattan Distance) to estimate the cost from the current node to the goal, enabling faster pathfinding compared to uninformed search methods.
+This project demonstrates the implementation of the A*Search Algorithm to solve a maze efficiently. The algorithm uses a heuristic function (Manhattan Distance) to estimate the cost from the current node to the goal, enabling faster pathfinding compared to uninformed search methods.
 
 ## Features
 
