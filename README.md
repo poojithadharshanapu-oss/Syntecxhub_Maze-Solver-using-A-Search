@@ -58,4 +58,4 @@ python maze_solver.py
 
 ## Author
 
-Poojitha Darshanapu
+Poojitha Dharshanapu
